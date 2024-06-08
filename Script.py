@@ -8,14 +8,14 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/valkyraegfx ᴛɢ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/valkyraegfx>VALKYRAE-TG</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: VALKYRAE BOT ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/valkyraegfx</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/valkyraegfx>VALKYRAE MOVIE BOT</a>
 
 <b>ᴅᴇᴠ: <a herf=https://t.me/valkyraegfx ᴛɢ</a></b>"""
 
